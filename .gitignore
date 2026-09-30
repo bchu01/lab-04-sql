@@ -24,3 +24,6 @@ Thumbs.db
 # Environment / secrets (never commit these)
 .env
 .env.*
+
+# Local DuckDB files created by process_duckdb.py
+*.duckdb
